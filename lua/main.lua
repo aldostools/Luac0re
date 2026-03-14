@@ -10,7 +10,7 @@ require "syscall"
 require "remotelualoader"
 require "jit"
 
-version_string = "Luac0re 2.0 by Gezine"
+version_string = "Luac0re 2.0b by Gezine"
 
 init_native_functions()
 syscall.init()
